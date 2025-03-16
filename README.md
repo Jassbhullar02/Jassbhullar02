@@ -1,16 +1,30 @@
-## Hi there 👋
+![logo](https://github.com/Jassbhullar02/Jassbhullar02/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.png)
+<h1 align="center">Hi 👋, I'm Jaspreet Bhullar</h1>
+<h3 align="center">A passionate ios developer from India</h3>
 
-<!--
-**Jassbhullar02/Jassbhullar02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/02aef717-c9bc-42be-a6b3-f9cd6fc50684" />
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jassbhullar02&label=Profile%20views&color=0e75b6&style=flat" alt="jassbhullar02" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **advanced-level skills such as augmented reality (AR), artificial intelligence (AI), and 3D modeling.**
+
+- 📫 How to reach me **jassbhullar1502@gmail.com**
+
+- 📄 Know about my experiences [iOS Developer with 2+ years' experience in Swift, SwiftUI, and Firebase. I build sleek apps, excel in debugging and API integration, and am exploring AR, AI, and 3D modeling for innovative mobile solutions. Check out my projects for cutting-edge features!](iOS Developer with 2+ years' experience in Swift, SwiftUI, and Firebase. I build sleek apps, excel in debugging and API integration, and am exploring AR, AI, and 3D modeling for innovative mobile solutions. Check out my projects for cutting-edge features!)
+
+- ⚡ Fun fact **I think I am funny**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/jaspreet singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaspreet singh" height="30" width="40" /></a>
+<a href="https://instagram.com/code_ka_adda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="code_ka_adda" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jassbhullar02&show_icons=true&locale=en&layout=compact" alt="jassbhullar02" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jassbhullar02&show_icons=true&locale=en" alt="jassbhullar02" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jassbhullar02&" alt="jassbhullar02" /></p>
